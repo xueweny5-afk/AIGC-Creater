@@ -1,0 +1,7 @@
+interface:
+  display_name: "Film Researcher"
+  short_description: "深化电影创作方向或探索选题，核验事实依据并研究艺术表达方法"
+  default_prompt: "使用 $film-researcher 根据 Film Project Brief 开展研究：方向已定则深化，仍在探索则比较选题；将事实核验、作品观察与艺术提议分开，形成有创作用途、问题优先级和交接边界的研究包。"
+
+policy:
+  allow_implicit_invocation: true

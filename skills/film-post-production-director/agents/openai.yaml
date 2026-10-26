@@ -1,0 +1,7 @@
+interface:
+  display_name: "Film Post-production Director"
+  short_description: "把通过 QC 的 Takes 剪成含声音、调色、VFX 与字幕的锁片候选"
+  default_prompt: "Use $film-post-production-director to plan or execute the edit, sound, color, VFX, titles, and full-playback review from QC-selected takes, and only declare picture lock when a real candidate passes."
+policy:
+  allow_implicit_invocation: true
+

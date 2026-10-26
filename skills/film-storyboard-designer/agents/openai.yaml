@@ -1,0 +1,6 @@
+interface:
+  display_name: "Film Storyboard Designer"
+  short_description: "把剧本与镜头表转成覆盖完整、可逐镜审核的分镜表和关键帧"
+  default_prompt: "Use $film-storyboard-designer to map the screenplay through the approved shot list into a complete storyboard coverage table, readable storyboard sheet, and only the necessary reviewable keyframes."
+policy:
+  allow_implicit_invocation: true

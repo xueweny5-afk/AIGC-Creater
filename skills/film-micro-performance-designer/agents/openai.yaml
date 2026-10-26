@@ -1,0 +1,4 @@
+interface:
+  display_name: "人物微表演设计"
+  short_description: "把抽象情绪转成有触发、延迟、抑制和结束状态的微动作表演链"
+  default_prompt: "Use $film-micro-performance-designer to turn this abstract emotional beat into a restrained, observable performance chain."

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Film Continuity QC"
+  short_description: "完整检查真实 Take 的故事、身份、运动、声音与跨镜连续性"
+  default_prompt: "Use $film-continuity-qc to inspect the actual generated media end to end, record timecoded continuity and quality issues, select only passing takes, and route failures to the earliest responsible stage."
+policy:
+  allow_implicit_invocation: true
+

@@ -1,0 +1,22 @@
+# FRAME CONTRACT
+
+- **Frame ID：** S001-SH01-F01
+- **Source Shot ID：** S001-SH01
+- **Type：** BOARD
+- **Version：** v1.1
+- **Status：** GENERATED_PENDING_REVIEW
+- **Represented Instant：** 秋风刚进入庭院，张翰仍持官牒，官署秩序尚未中断
+- **Narrative Function：** 建立制度空间与人物初始归属
+- **Aspect Ratio：** 16:9
+- **Asset IDs / Versions：** CHR-001 v2.4; CST-001 v1.2; LOC-001 v1.2; PRP-001 v1.2; FX-001 functional P1
+- **World Position / Axis Projection：** 工作案与属吏位于制度内侧，出口在画面右侧；保持张翰—属吏关系轴同侧，离场方向向右。
+- **Composition & Depth：** 横向全景，平视；庭院侧固定机位；自然透视，保留工作案、廊柱、行走路线和出口；只呈现当前锁定瞬间，不在单帧内叠加前后动作。
+- **Visible Character / Prop State：** 官吏按固定路线穿行；张翰在廊下工作案旁持官牒，属吏尚未靠近
+- **Light / Time State：** 秋日自然光；廊下与庭院方向固定。
+- **Continuity In：** 继承 `direction/shot-continuity-ledger.md` 中 S001-SH01 的进入状态。
+- **Continuity Out：** 抵达 S001-SH01 的镜头结束状态，并交给下一 Shot。
+- **Must Show：** 秋风刚进入庭院，张翰仍持官牒，官署秩序尚未中断；建立制度空间与人物初始归属必须无需文字标签即可读出。
+- **Must Avoid：** 避免官印回跳、摔印、怒斥、跪拦、散发敞衣、额外肢体、文字标签或水印。
+- **File Path：** `storyboard/frames/S001-SH01-F01/S001-SH01-F01.png`
+- **Review Evidence：** SELF-REVIEWED
+- **Review Result：** 人物身份、官服状态、官署空间和秋风信息可读；官牒只作为功能性道具，不允许停留辨读纸面文字。等待用户复核，不得标记为 USER-APPROVED。

@@ -1,0 +1,42 @@
+# TAKE LOG
+
+- **Batch ID：**
+- **Unit ID：**
+- **Take ID：**
+- **Attempt ID：**
+- **Status：**
+- **Batch Class：** TECHNICAL_PILOT / PRODUCTION
+- **Risk / Test Hypothesis：**
+- **Changed Variable / Held Constant / Pass Evidence：**
+- **Known Confounds / Applicability Boundary：**
+- **Production Unit Card Version / Source Freshness：**
+- **Adopted Method IDs / Versions / Scope：**
+- **Method-specific Hypothesis / QC Route：**
+- **Depends On / State Change / Affected Dependents：**
+- **Dependency Status / Actual Observation Receipt：**
+- **Prompt Package Hash：**
+- **Model / Version / Tool：**
+- **Provider / Platform / Task Entry / Input Mode：**
+- **Package-Card Readiness / Prompt Review / Approval Scope Evidence：**
+- **Input Paths / Checksums / Upload IDs：**
+- **Parameters / Seed：**
+- **Submitted / Started / Completed：**
+- **Request / Task / Output IDs：**
+- **Cost / Credits：**
+- **Budget Ledger Row / Attempt Cap / Submitted Count / In-flight Requests：**
+- **Reported Actual Cost / Reservation & Basis / Unsettled-Unknown Charges / Remaining Safe Headroom：**
+- **Output Path / Size / Probe：**
+- **Error：**
+- **Failure Class / Authoritative Task Evidence：**
+- **Recovery Action：** QUERY / RETRIEVE / NEW_SUBMISSION / NONE
+- **Diagnostic Hypothesis / Authorized Changed Fields / Stop-or-Return Basis：**
+- **Changed Since Prior Attempt：**
+- **Observed Result：**
+- **Next Smallest Change：**
+- **Learning Case Candidate ID：** NOT_APPLICABLE / [case candidate]
+- **Baseline / Candidate Relation：**
+- **Unchanged Fields / Known Confounds：**
+- **Frozen Approved Inputs / Takes：**
+- **QC Status：** NOT_EVALUATED
+- **Return Mapping Evidence / Unknown Metadata：**
+- **User Approval / Scope / Time：** 人工批准不等于 QC_PASS，具体状态另附依据

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Film Asset Designer"
+  short_description: "规划、生成并审核人物六视图、服化道、场景和道具连续性资产"
+  default_prompt: "Use $film-asset-designer to plan, generate, or review the required character, location, costume, and prop reference assets while preserving approved identity and continuity rules."
+policy:
+  allow_implicit_invocation: true

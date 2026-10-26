@@ -1,0 +1,33 @@
+{
+  "file": "D:\\project\\Codex_zimeiti\\AIGC Creater\\projects\\FPD-20261009-灯塔远望\\generation\\灯塔远望-运镜版-v2.mp4",
+  "sha256": "1941958714073eb779920fa5f08948386ee44b61f440cce8dfb523c6a16cc35c",
+  "bytes": 1117304,
+  "metadata": {
+    "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(progressive)",
+    "fps": 24.0,
+    "source_size": [
+      760,
+      950
+    ],
+    "size": [
+      760,
+      950
+    ],
+    "rotate": 0,
+    "duration": 8.0
+  },
+  "decoded_frames": 192,
+  "frame_step_mean_abs_min": 4.616805170821791e-05,
+  "frame_step_mean_abs_max": 5.9103056325023084,
+  "frame_step_mean_abs_average": 2.750712916902341,
+  "sample_indices": [
+    0,
+    36,
+    72,
+    108,
+    156,
+    191
+  ]
+}

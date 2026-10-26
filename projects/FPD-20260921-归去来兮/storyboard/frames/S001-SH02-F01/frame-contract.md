@@ -1,0 +1,22 @@
+# FRAME CONTRACT
+
+- **Frame ID：** S001-SH02-F01
+- **Source Shot ID：** S001-SH02
+- **Type：** BOARD
+- **Version：** v1.1
+- **Status：** GENERATED_PENDING_REVIEW
+- **Represented Instant：** 官牒刚刚平放回案面，张翰的手已经松开
+- **Narrative Function：** 让第一次主动放下可读
+- **Aspect Ratio：** 16:9
+- **Asset IDs / Versions：** CHR-001 v2.4; CST-001 v1.2; LOC-001 v1.2
+- **World Position / Axis Projection：** 工作案与属吏位于制度内侧，出口在画面右侧；保持张翰—属吏关系轴同侧，离场方向向右。
+- **Composition & Depth：** 中景，略侧平视；工作案外侧；自然距离，脸、手、官牒和衣袖同时可读；只呈现当前锁定瞬间，不在单帧内叠加前后动作。
+- **Visible Character / Prop State：** 叶掠石阶，衣袖鼓动；张翰低头确认官牒，将其端正放回案上
+- **Light / Time State：** 秋日自然光；廊下与庭院方向固定。
+- **Continuity In：** 继承 `direction/shot-continuity-ledger.md` 中 S001-SH02 的进入状态。
+- **Continuity Out：** 抵达 S001-SH02 的镜头结束状态，并交给下一 Shot。
+- **Must Show：** 官牒刚刚平放回案面，张翰的手已经松开；让第一次主动放下可读必须无需文字标签即可读出。
+- **Must Avoid：** 避免官印回跳、摔印、怒斥、跪拦、散发敞衣、额外肢体、文字标签或水印。
+- **File Path：** `storyboard/frames/S001-SH02-F01/S001-SH02-F01.png`
+- **Review Evidence：** SELF-REVIEWED
+- **Review Result：** 官牒已平放、双手已松开，动作结果可读；纸面存在不可验证的生成笔迹，只能作为虚化纹理，禁止文字特写。等待用户复核，不得标记为 USER-APPROVED。

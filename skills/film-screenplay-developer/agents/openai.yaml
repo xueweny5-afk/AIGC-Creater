@@ -1,0 +1,7 @@
+interface:
+  display_name: "Film Screenplay Developer"
+  short_description: "把批准的 Treatment 写成可读、可拍、可交接的剧本主版本"
+  default_prompt: "Use $film-screenplay-developer to turn the approved treatment into a complete readable screenplay and continuity register without adding shots, storyboards, or generation prompts."
+policy:
+  allow_implicit_invocation: true
+

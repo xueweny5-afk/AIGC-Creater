@@ -1,0 +1,22 @@
+# FRAME CONTRACT
+
+- **Frame ID：** S001-SH03-F02
+- **Source Shot ID：** S001-SH03
+- **Type：** INTERMEDIATE_STATE
+- **Version：** v1.1
+- **Status：** APPROVED
+- **Represented Instant：** 官印由张翰掌托，属吏双手刚形成可靠承接
+- **Narrative Function：** 验证接触与重量传递
+- **Aspect Ratio：** 16:9
+- **Asset IDs / Versions：** CHR-001 v2.4; CST-001 v1.2; LOC-001 v1.2; PRP-001 v1.2
+- **World Position / Axis Projection：** 工作案与属吏位于制度内侧，出口在画面右侧；保持张翰—属吏关系轴同侧，离场方向向右。
+- **Composition & Depth：** 双人中近景，平视；关系轴同侧；保留双手接触与两人身体边界；只呈现当前锁定瞬间，不在单帧内叠加前后动作。
+- **Visible Character / Prop State：** 属吏到达边界；张翰解下官印递出，属吏双手承接；交接完成后张翰先松手
+- **Light / Time State：** 秋日自然光；廊下与庭院方向固定。
+- **Continuity In：** 继承 S001-SH03-F01；人物、道具、光线与轴线不跳变。
+- **Continuity Out：** 当前状态交给 S001-SH03-F03；只推进该动作的下一阶段。
+- **Must Show：** 官印由张翰掌托，属吏双手刚形成可靠承接；验证接触与重量传递必须无需文字标签即可读出。
+- **Must Avoid：** 避免官印回跳、摔印、怒斥、跪拦、散发敞衣、额外肢体、文字标签或水印。
+- **File Path：** `storyboard/frames/S001-SH03-F02/S001-SH03-F02.png`
+- **Review Evidence：** CODEX_VISUAL_REVIEW_PASS — 2026-09-25
+- **Review Result：** PASS。唯一官印由张翰下方掌托与属吏双手共同承重，手部边界、人物身份、服装、机位、空间和秋日光线均与 F01 连续；可作为 F03 的编辑母图。尚未标记 USER-APPROVED。

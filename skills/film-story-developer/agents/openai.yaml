@@ -1,0 +1,7 @@
+interface:
+  display_name: "Film Story Developer"
+  short_description: "将项目简报和研究候选整理成可交接的故事蓝图"
+  default_prompt: "使用 $film-story-developer 根据项目简报、研究包和选定候选生成范围明确的故事蓝图，继承单支或剧集结构，区分研究与原创，不写剧本或镜头。"
+
+policy:
+  allow_implicit_invocation: true

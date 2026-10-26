@@ -1,0 +1,7 @@
+interface:
+  display_name: "Film Master Delivery"
+  short_description: "规划、导出并完整验证横竖版、平台版与归档母版"
+  default_prompt: "Use $film-master-delivery to plan, export, probe, checksum, and fully review every required delivery variant from the actual picture-locked master without publishing it."
+policy:
+  allow_implicit_invocation: true
+

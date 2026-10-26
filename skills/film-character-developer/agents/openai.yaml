@@ -1,0 +1,7 @@
+interface:
+  display_name: "Film Character Developer"
+  short_description: "把故事蓝图发展成有行动力、可交接的人物系统"
+  default_prompt: "使用 $film-character-developer 根据故事蓝图建立精简人物系统，明确人物是单片、原型专用还是跨集复用，保留开放决定，不写剧本、镜头或 Prompt。"
+
+policy:
+  allow_implicit_invocation: true

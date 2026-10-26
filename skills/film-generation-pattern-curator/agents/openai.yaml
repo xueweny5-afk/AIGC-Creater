@@ -1,0 +1,6 @@
+interface:
+  display_name: "Film Generation Pattern Curator"
+  short_description: "把真实生成与QC证据沉淀为有边界的成功失败模式"
+  default_prompt: "Use $film-generation-pattern-curator to turn prompt, take, and QC evidence into a bounded generation case and promote it only when the evidence supports reuse."
+policy:
+  allow_implicit_invocation: true

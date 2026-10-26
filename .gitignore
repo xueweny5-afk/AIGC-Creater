@@ -1,0 +1,46 @@
+# 图片与音视频保留在本地
+*.[pP][nN][gG]
+*.[jJ][pP][gG]
+*.[jJ][pP][eE][gG]
+*.webp
+*.gif
+*.bmp
+*.tif
+*.tiff
+*.svg
+*.ico
+*.heic
+*.avif
+*.[mM][pP]4
+*.mov
+*.mkv
+*.avi
+*.webm
+*.m4v
+*.[wW][aA][vV]
+*.mp3
+*.m4a
+*.aac
+*.flac
+*.ogg
+*.aiff
+
+# 本地凭据、环境与缓存
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# 本地预览拼接清单
+projects/**/post/preview/concat.txt
+projects/**/post/contrast-preview/concat.txt

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Film Generation Producer"
+  short_description: "执行并记录图片/视频生成批次、Take、重试、参数和真实文件回执"
+  default_prompt: "Use $film-generation-producer to preflight and execute the approved prompt package within the authorized attempt budget, record every take, and hand real outputs to QC without claiming quality approval."
+policy:
+  allow_implicit_invocation: true
+

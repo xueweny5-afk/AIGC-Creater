@@ -1,0 +1,25 @@
+{
+  "source": "C:\\Users\\大文\\Downloads\\下载 (5).mp4",
+  "sha256": "99924349922516c0137b0897acc0d86b845e08eb232c4480ec64d8975c4e6983",
+  "duration_seconds": 6.617687,
+  "video_frames_decoded": 396,
+  "width": 3840,
+  "height": 2160,
+  "fps": "60/1",
+  "audio_streams": 1,
+  "sample_times_seconds": [
+    0.0,
+    0.6,
+    1.2,
+    1.8,
+    2.4,
+    3.0,
+    3.6,
+    4.2,
+    4.8,
+    5.4,
+    6.0
+  ],
+  "full_playback": false,
+  "audio_listened": false
+}

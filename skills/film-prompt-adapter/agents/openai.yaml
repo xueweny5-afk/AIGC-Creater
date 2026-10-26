@@ -1,0 +1,6 @@
+interface:
+  display_name: "Film Prompt Adapter"
+  short_description: "用分任务提示词库编译电影资产、单帧与视频模型提示词"
+  default_prompt: "Use $film-prompt-adapter and its task-routed prompt library to compile approved asset, frame, or motion contracts into a compact verified target-model prompt package without changing creative decisions or running generation."
+policy:
+  allow_implicit_invocation: true

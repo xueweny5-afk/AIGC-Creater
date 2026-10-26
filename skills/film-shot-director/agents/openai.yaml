@@ -1,0 +1,7 @@
+interface:
+  display_name: "Film Shot Director"
+  short_description: "把批准的场景调度设计成完整、连续、可分镜的镜头表"
+  default_prompt: "Use $film-shot-director to turn the approved scene design and assets into a complete shot list and continuity ledger without generating storyboard images or model prompts."
+policy:
+  allow_implicit_invocation: true
+

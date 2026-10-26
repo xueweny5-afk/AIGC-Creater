@@ -1,0 +1,11 @@
+{
+  "source": "D:\\project\\qita\\电影感\\AIGC电影\\香积寺之战1.mp4",
+  "sha256": "6c2af3f40349cef5485db40234e37a6dfe035ed5c008b0daaa4d9e4c512ad5ae",
+  "sample_interval_s": 0.5,
+  "first_source_seek_s": 0,
+  "last_source_seek_s": 208.5,
+  "frame_count": 418,
+  "overview_pages": 7,
+  "full_audiovisual_playback": false,
+  "audio_semantic_review": false
+}

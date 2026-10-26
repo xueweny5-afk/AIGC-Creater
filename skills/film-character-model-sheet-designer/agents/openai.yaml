@@ -1,0 +1,4 @@
+interface:
+  display_name: "角色多视图设定板设计"
+  short_description: "设计同一角色多视图身份设定板与真实皮肤角色资产提示词"
+  default_prompt: "Use $film-character-model-sheet-designer to create a consistent multi-view character model-sheet prompt from this approved character identity."

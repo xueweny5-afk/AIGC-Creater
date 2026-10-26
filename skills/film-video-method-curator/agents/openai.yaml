@@ -1,0 +1,6 @@
+interface:
+  display_name: "Film Video Method Curator"
+  short_description: "把优秀参考视频沉淀为经样片验证的开放式专业方法Skill"
+  default_prompt: "Use $film-video-method-curator to analyze this reference, extract transferable production methods, and promote them only after real pilot and QC evidence."
+policy:
+  allow_implicit_invocation: true

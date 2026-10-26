@@ -1,0 +1,22 @@
+# FRAME CONTRACT
+
+- **Frame ID：** S001-SH03-F01
+- **Source Shot ID：** S001-SH03
+- **Type：** START_KEYFRAME
+- **Version：** v1.1
+- **Status：** GENERATED_PENDING_REVIEW
+- **Represented Instant：** 张翰已解下官印，属吏双手尚未接触
+- **Narrative Function：** 锁定交接前所有权与手部位置
+- **Aspect Ratio：** 16:9
+- **Asset IDs / Versions：** CHR-001 v2.4; CST-001 v1.2; LOC-001 v1.2; PRP-001 v1.2
+- **World Position / Axis Projection：** 工作案与属吏位于制度内侧，出口在画面右侧；保持张翰—属吏关系轴同侧，离场方向向右。
+- **Composition & Depth：** 双人中近景，平视；关系轴同侧；保留双手接触与两人身体边界；只呈现当前锁定瞬间，不在单帧内叠加前后动作。
+- **Visible Character / Prop State：** 属吏到达边界；张翰解下官印递出，属吏双手承接；交接完成后张翰先松手
+- **Light / Time State：** 秋日自然光；廊下与庭院方向固定。
+- **Continuity In：** 继承 `direction/shot-continuity-ledger.md` 中 S001-SH03 的进入状态。
+- **Continuity Out：** 当前状态交给 S001-SH03-F02；只推进该动作的下一阶段。
+- **Must Show：** 张翰已解下官印，属吏双手尚未接触；锁定交接前所有权与手部位置必须无需文字标签即可读出。
+- **Must Avoid：** 避免官印回跳、摔印、怒斥、跪拦、散发敞衣、额外肢体、文字标签或水印。
+- **File Path：** `storyboard/frames/S001-SH03-F01/S001-SH03-F01.png`
+- **Review Evidence：** SELF-REVIEWED
+- **Review Result：** 张翰在左、属吏在右，仅有一枚官印，四只手边界清楚且尚未接触；可作为 F02 的连续编辑母图。等待用户复核，不得标记为 USER-APPROVED。

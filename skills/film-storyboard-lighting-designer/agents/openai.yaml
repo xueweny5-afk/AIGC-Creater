@@ -1,0 +1,4 @@
+interface:
+  display_name: "分镜光影设计"
+  short_description: "把已批准的场景光线投影成逐镜连续、可执行、可审核的分镜光影方案"
+  default_prompt: "Use $film-storyboard-lighting-designer to add a motivated, continuous lighting pass to these approved storyboard frames."

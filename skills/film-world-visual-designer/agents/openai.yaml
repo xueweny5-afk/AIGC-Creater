@@ -1,0 +1,7 @@
+interface:
+  display_name: "Film World & Visual Designer"
+  short_description: "从完整剧本建立世界视觉圣经与可追溯的资产需求"
+  default_prompt: "Use $film-world-visual-designer to derive a world and visual bible plus asset requirements from the approved screenplay without generating images, shots, or model prompts."
+policy:
+  allow_implicit_invocation: true
+

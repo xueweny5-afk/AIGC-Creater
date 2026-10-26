@@ -1,0 +1,7 @@
+interface:
+  display_name: "Film Treatment Developer"
+  short_description: "把故事蓝图和人物系统发展成完整、可交接的 Treatment"
+  default_prompt: "Use $film-treatment-developer to develop the approved story and characters into a complete causal treatment without writing screenplay scenes, shots, or prompts."
+policy:
+  allow_implicit_invocation: true
+

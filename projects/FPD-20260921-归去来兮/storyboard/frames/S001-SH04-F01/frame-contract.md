@@ -1,0 +1,22 @@
+# FRAME CONTRACT
+
+- **Frame ID：** S001-SH04-F01
+- **Source Shot ID：** S001-SH04
+- **Type：** BOARD + HERO_FRAME
+- **Version：** v1.1
+- **Status：** GENERATED_PENDING_REVIEW
+- **Represented Instant：** 张翰已越过门槛向右离开，属吏持印停在制度一侧
+- **Narrative Function：** 代表第一种主动归去
+- **Aspect Ratio：** 16:9
+- **Asset IDs / Versions：** CHR-001 v2.4; CST-001 v1.2; LOC-001 v1.2; PRP-001 v1.2
+- **World Position / Axis Projection：** 工作案与属吏位于制度内侧，出口在画面右侧；保持张翰—属吏关系轴同侧，离场方向向右。
+- **Composition & Depth：** 中远景，出口方向平视；廊下纵深机位；让横向出口有足够余量；只呈现当前锁定瞬间，不在单帧内叠加前后动作。
+- **Visible Character / Prop State：** 张翰说完台词后直接越过门槛向右离开；属吏持印停在制度一侧，其他官吏继续工作
+- **Light / Time State：** 秋日自然光；廊下与庭院方向固定。
+- **Continuity In：** 继承 `direction/shot-continuity-ledger.md` 中 S001-SH04 的进入状态。
+- **Continuity Out：** 抵达 S001-SH04 的镜头结束状态，并交给下一 Shot。
+- **Must Show：** 张翰已越过门槛向右离开，属吏持印停在制度一侧；代表第一种主动归去必须无需文字标签即可读出。
+- **Must Avoid：** 避免官印回跳、摔印、怒斥、跪拦、散发敞衣、额外肢体、文字标签或水印。
+- **File Path：** `storyboard/frames/S001-SH04-F01/S001-SH04-F01.png`
+- **Review Evidence：** SELF-REVIEWED
+- **Review Result：** 修正版已去除官冠与红色官袍，张翰以灰褐离任状态向右离开，属吏持印留在左侧，方向和所有权清楚。等待用户复核，不得标记为 USER-APPROVED。

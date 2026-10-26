@@ -1,0 +1,7 @@
+interface:
+  display_name: "Film Scene Director"
+  short_description: "在拆镜头前设计逐场功能、表演、调度、信息和声音节奏"
+  default_prompt: "Use $film-scene-director to turn the complete screenplay and visual contracts into a scene design pack focused on performance, blocking, information, sound, and state changes without designing shots."
+policy:
+  allow_implicit_invocation: true
+

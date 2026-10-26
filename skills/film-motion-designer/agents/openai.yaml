@@ -1,0 +1,7 @@
+interface:
+  display_name: "Film Motion Designer"
+  short_description: "把批准的镜头与关键帧发展为逐镜、分层、可计时的运动规格"
+  default_prompt: "Use $film-motion-designer to define model-neutral character, prop, camera, environment, timing, and transition motion for each approved shot without writing platform prompts or generating video."
+policy:
+  allow_implicit_invocation: true
+

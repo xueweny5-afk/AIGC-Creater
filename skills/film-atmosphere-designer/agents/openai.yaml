@@ -1,0 +1,6 @@
+interface:
+  display_name: "Film Atmosphere Designer"
+  short_description: "设计可继承、可生成、可质检的电影空气介质状态"
+  default_prompt: "Use $film-atmosphere-designer to define a causally grounded atmospheric medium state and its handoff to visual, motion, prompt, and QC contracts."
+policy:
+  allow_implicit_invocation: true
